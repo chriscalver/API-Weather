@@ -16,3 +16,7 @@ fetch("https://weatherapi-com.p.rapidapi.com/current.json?q=42.98%2C-81.25", {
 .catch(err => {
 	console.log(err);
 });
+
+
+
+
